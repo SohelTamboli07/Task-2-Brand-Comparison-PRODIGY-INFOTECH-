@@ -18,9 +18,6 @@ pandas, re
 matplotlib, seaborn
 wordcloud
 📦 Installation
-Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 (Optional) Create a virtual environment
 python -m venv .venv
 On Windows: .venv\Scripts\activate
@@ -53,9 +50,7 @@ Word clouds for each brand
 🗂️ Project Structure (suggested)
 .
 ├── apple_samsung_sentiment.py # Main script (your code)
-├── requirements.txt
 ├── README.md
-└── assets/ # (Optional) Save generated plots here
 🧪 Sample Dataset (first few rows)
 tweet	brand
 I love the new Apple iPhone, camera quality is best!	Apple
